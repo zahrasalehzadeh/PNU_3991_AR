@@ -48,7 +48,7 @@
 
 <table style="width:100%">
   <tr>
-	<th>18-20</th>
+    <th>18-20</th>
     <th >16-18</th>
     <th >14-16</th>
     <th >12-14</th>
@@ -102,8 +102,8 @@
     <th>چهارشنبه</th>
   </tr>
    <tr>
-    <th > </th>
-	<th ></th>
+     <th > </th>
+     <th >مباحث ویژه در نرم افزار</th>
      <th ></th>
      <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار</a></th>
      <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">متدولوژی ایجاد نرم افزار</a></th>
