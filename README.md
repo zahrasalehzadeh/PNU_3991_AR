@@ -103,8 +103,8 @@
   </tr>
    <tr>
      <th > </th>
-     <th >مباحث ویژه در نرم افزار</th>
      <th ></th>
+     <th >مباحث ویژه در نرم افزار</th>
      <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار</a></th>
      <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">متدولوژی ایجاد نرم افزار</a></th>
     <th></th>
