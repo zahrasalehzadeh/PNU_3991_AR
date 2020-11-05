@@ -19,8 +19,7 @@
 edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/16_بهناز%20رفيعي)<br>
 	1.6  [_ASE-24_پوريا صفري](https://github.com/AliRazavi-
 edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/24_پوريا%20صفري)<br>
-	1.7  [_ASE-15_عليرضا رزمجو](https://github.com/AliRazavi-
-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/15_عليرضا%20رزمجو)<br>
+	1.7  [_ASE-15_عليرضا رزمجو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/15_عليرضا%20رزمجو)<br>
  
  
  2. افزار نرم ایجاد  متدولوژی 
