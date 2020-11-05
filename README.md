@@ -31,8 +31,7 @@ edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/24_پوريا%20صفري)<br>
 	1.5 [_ASE- 16_بهناز رفيعي](https://github.com/AliRazavi-
 edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/16_بهناز%20رفيعي)
 	<br>
-	1.6 [_ASE-24_پوريا صفري](https://github.com/AliRazavi-
-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/24_پوريا%20صفري)
+	1.6 [_ASE-24_پوريا صفري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/24_پوريا%20صفري)
 	<br>
 ------------------
 ## دروس ارشد نمیسال اول 1399-1400
