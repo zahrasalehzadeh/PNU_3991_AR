@@ -7,6 +7,7 @@
 - [GitHub](https://github.com/zahrasalehzadeh)
 - [js](https://zahrasalehzadeh.github.io/madrake-js/)
 - [fasle23methodolgy](https://drive.google.com/file/d/1D5z3qOUfMTamyS4tHlCEJ8qQ1XkHtOIF/view?usp=sharing)
+- [روخوانی کتاب علمی درس معماری](https://drive.google.com/file/d/1hYPgV-C4bKpIZz4AAZ6TSQYRhM8FTb9G/view?usp=sharing)
 ------------------
 ## گروه ها
 
