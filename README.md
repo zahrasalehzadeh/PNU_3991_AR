@@ -5,10 +5,8 @@
 - [Resume](https://zahrasalehzadeh.github.io/resume/) 
 - [SOP](        )
 - [GitHub](https://github.com/zahrasalehzadeh)
--[Methodolgyfasle23](https://drive.google.com/file/d/1D5z3qOUfMTamyS4tHlCEJ8qQ1XkHtOIF/view?usp=sharing)
 - [js](https://zahrasalehzadeh.github.io/madrake-js/)
-
-
+-[methodolgyfasle23](https://drive.google.com/file/d/1D5z3qOUfMTamyS4tHlCEJ8qQ1XkHtOIF/view?usp=sharing)
 ------------------
 ## گروه ها
 
