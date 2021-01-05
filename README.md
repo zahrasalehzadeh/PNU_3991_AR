@@ -7,6 +7,7 @@
 - [GitHub](https://github.com/zahrasalehzadeh)
 - [js](https://drive.google.com/file/d/1j1Iyu4B9IOhR0PloGH9JWzZg1JE94Mbw/view?usp=sharing)
 - [fasle23methodolgy](https://drive.google.com/file/d/1D5z3qOUfMTamyS4tHlCEJ8qQ1XkHtOIF/view?usp=sharing)
+- [روخوانی کتاب علمی درس متدولوژی](https://drive.google.com/file/d/1W788n_ebIM6kosoqn0_3_3IqcwkbI0BA/view?usp=sharing) 
 - [روخوانی کتاب علمی درس معماری](https://drive.google.com/file/d/1hYPgV-C4bKpIZz4AAZ6TSQYRhM8FTb9G/view?usp=sharing)
 - [ارائه پروژه معماری ](https://drive.google.com/file/d/1a_7nyvEHoh44oK6aCrBcLulUbd-yNFUx/view?usp=sharing)
 ------------------
