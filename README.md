@@ -13,7 +13,12 @@
 -----------------
 ## بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://drive.google.com/file/d/1un55aQ3bEaQiBRh1bBCE9GbhR0Bt4Qiz/view?usp=sharing)
-- [خلاصه ارزیابی بخش عمومی](https://drive.google.com/file/d/1FWQLSBc69OC3DmJq0Tuoc6dyXaqK6IRc/view?usp=sharing)
+- [خلاصه ارزیابی بخش عمومی ](https://drive.google.com/file/d/1FWQLSBc69OC3DmJq0Tuoc6dyXaqK6IRc/view?usp=sharing)
+------------------------------
+## بخش دروس ارشد
+- [خلاصه ارزیابی درس متدولوژی توسعه نرم افزار](https://drive.google.com/file/d/153IP3x7vaNE41j3AIYMjZ5i6FYRKT8Ys/view?usp=sharing)
+- [خلاصه ارزیابی درس معماری](https://drive.google.com/file/d/1Upxd40eN_OdmOgLE8A3ShS6-nEoURJBL/view?usp=sharing)
+- [خلاصه ارزیابی درس سمینار]()
 ## گروه ها
 
 1. نرم افزار معماری
