@@ -12,7 +12,8 @@
 - [ارائه پروژه معماری ](https://drive.google.com/file/d/1a_7nyvEHoh44oK6aCrBcLulUbd-yNFUx/view?usp=sharing)
 -----------------
 ## بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](https://github.com/zahrasalehzadeh/PNU_3991_AR/blob/main/README.md)
+- [ارزیابی رزومه و انگیزه نامه](https://drive.google.com/file/d/1un55aQ3bEaQiBRh1bBCE9GbhR0Bt4Qiz/view?usp=sharing)
+- [خلاصه ارزیابی بخش عمومی](https://drive.google.com/file/d/1FWQLSBc69OC3DmJq0Tuoc6dyXaqK6IRc/view?usp=sharing)
 ## گروه ها
 
 1. نرم افزار معماری
