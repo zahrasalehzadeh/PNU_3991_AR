@@ -3,7 +3,7 @@
 # زهرا صالح زاده
 - [PNU_3991_AR](https://github.com/zahrasalehzadeh/PNU_3991_AR/blob/main/README.md)
 - [Resume](https://zahrasalehzadeh.github.io/resume/) 
-- [SOP](https://drive.google.com/file/d/1vH6hEVYE-uQzUAglwSgpwU8d3gxOtUL8/view?usp=sharing)
+- [SOP](https://drive.google.com/file/d/10Be18tmP3eWf4rh0MarKQkDB51_ulbQO/view?usp=sharing)
 - [GitHub](https://github.com/zahrasalehzadeh)
 - [js](https://drive.google.com/file/d/1j1Iyu4B9IOhR0PloGH9JWzZg1JE94Mbw/view?usp=sharing)
 - [fasle23methodolgy](https://drive.google.com/file/d/1D5z3qOUfMTamyS4tHlCEJ8qQ1XkHtOIF/view?usp=sharing)
