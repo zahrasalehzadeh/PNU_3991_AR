@@ -10,7 +10,9 @@
 - [روخوانی کتاب علمی درس متدولوژی](https://drive.google.com/file/d/1W788n_ebIM6kosoqn0_3_3IqcwkbI0BA/view?usp=sharing) 
 - [روخوانی کتاب علمی درس معماری](https://drive.google.com/file/d/1hYPgV-C4bKpIZz4AAZ6TSQYRhM8FTb9G/view?usp=sharing)
 - [ارائه پروژه معماری ](https://drive.google.com/file/d/1a_7nyvEHoh44oK6aCrBcLulUbd-yNFUx/view?usp=sharing)
-------------------
+-----------------
+## بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/zahrasalehzadeh/PNU_3991_AR/blob/main/README.md)
 ## گروه ها
 
 1. نرم افزار معماری
